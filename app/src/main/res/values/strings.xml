@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Odontec</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_cadatro_usuario">CadatroUsuario</string>
+    <string name="title_activity_recuperar_senha">RecuperarSenha</string>
+    <string name="title_activity_atualizar_senha">AtualizarSenha</string>
+</resources>

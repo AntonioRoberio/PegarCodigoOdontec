@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "93571064741",
+    "firebase_url": "https://odontecapp.firebaseio.com",
+    "project_id": "odontecapp",
+    "storage_bucket": "odontecapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93571064741:android:44ab9efbb0dd6f1c",
+        "android_client_info": {
+          "package_name": "com.inovare.equipe.odontec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93571064741-1fbaltj1hlsdo1udab9t8dfidmo3n3tl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inovare.equipe.odontec",
+            "certificate_hash": "c83ad52127a12bb284a5945822c7dac307fe4bc7"
+          }
+        },
+        {
+          "client_id": "93571064741-7uv8gvr8jm6v3is6hkirlg2j2km8amki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvf4wGkPm-IFA6Qvw_lU8ABrNxwTs-qi8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93571064741-7uv8gvr8jm6v3is6hkirlg2j2km8amki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
